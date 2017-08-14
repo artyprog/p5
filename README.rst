@@ -3,7 +3,7 @@
     :align: center
     :alt: ---
 
-p5
+p5.
 ===
 
 p5 is a Python library that provides high level functions to work with
